@@ -1,0 +1,150 @@
+﻿
+[1] CAND_0000031 (Score: 0.7857)
+Reasoning: Strong fit: 6.0 years of experience, currently Recommendation Systems Engineer at Swiggy. High semantic alignment with skills in Go, MLflow, FAISS and a strong 91% recruiter response rate.
+
+[2] CAND_0000014 (Score: 0.7593)
+Reasoning: Strong fit: 8.4 years of experience, currently Frontend Engineer at Zomato. High semantic alignment with skills in FAISS, BigQuery, React and a strong 80% recruiter response rate.
+
+[3] CAND_0000023 (Score: 0.6798)
+Reasoning: Strong fit: 3.7 years of experience, currently Software Engineer at Acme Corp. High semantic alignment with skills in BigQuery, Marketing, Node.js and a strong 57% recruiter response rate.
+
+[4] CAND_0000040 (Score: 0.6417)
+Reasoning: Strong fit: 1.6 years of experience, currently Customer Support at Globex Inc. High semantic alignment with skills in SQL, Spring Boot, Accounting and a strong 46% recruiter response rate.
+
+[5] CAND_0000010 (Score: 0.6186)
+Reasoning: Strong fit: 4.6 years of experience, currently Data Engineer at Ola. High semantic alignment with skills in GCP, Spring Boot, Kubeflow and a strong 40% recruiter response rate.
+
+[6] CAND_0000025 (Score: 0.6040)
+Reasoning: Strong fit: 7.3 years of experience, currently Frontend Engineer at Tech Mahindra. High semantic alignment with skills in JavaScript, Spark, GCP and a strong 74% recruiter response rate.
+
+[7] CAND_0000015 (Score: 0.6026)
+Reasoning: Strong fit: 5.4 years of experience, currently Software Engineer at Razorpay. High semantic alignment with skills in PyTorch, Content Writing, Weights & Biases and a strong 32% recruiter response rate.
+
+[8] CAND_0000001 (Score: 0.6022)
+Reasoning: Strong fit: 6.9 years of experience, currently Backend Engineer at Mindtree. High semantic alignment with skills in Tailwind, NLP, Image Classification and a strong 34% recruiter response rate.
+
+[9] CAND_0000011 (Score: 0.5976)
+Reasoning: Strong fit: 2.0 years of experience, currently QA Engineer at Pied Piper. High semantic alignment with skills in Recommendation Systems, Scrum, FastAPI and a strong 56% recruiter response rate.
+
+[10] CAND_0000044 (Score: 0.5755)
+Reasoning: Strong fit: 5.7 years of experience, currently Frontend Engineer at Tech Mahindra. High semantic alignment with skills in Hadoop, JavaScript, Databricks and a strong 66% recruiter response rate.
+
+[11] CAND_0000032 (Score: 0.5713)
+Reasoning: Solid candidate with 8.1 YOE as .NET Developer. Good technical match (Speech Recognition, Project Management, REST APIs) but slightly lower behavioral engagement (69% response rate).
+
+[12] CAND_0000009 (Score: 0.5690)
+Reasoning: Solid candidate with 11.0 YOE as Mechanical Engineer. Good technical match (Snowflake, gRPC, JavaScript) but slightly lower behavioral engagement (53% response rate).
+
+[13] CAND_0000038 (Score: 0.5683)
+Reasoning: Solid candidate with 6.7 YOE as Java Developer. Good technical match (Kubeflow, Django, Redux) but slightly lower behavioral engagement (20% response rate).
+
+[14] CAND_0000018 (Score: 0.5630)
+Reasoning: Solid candidate with 6.6 YOE as Frontend Engineer. Good technical match (CNN, Java, Accounting) but slightly lower behavioral engagement (16% response rate).
+
+[15] CAND_0000002 (Score: 0.5323)
+Reasoning: Solid candidate with 12.5 YOE as Operations Manager. Good technical match (Project Management, React, Photoshop) but slightly lower behavioral engagement (29% response rate).
+
+[16] CAND_0000013 (Score: 0.5253)
+Reasoning: Solid candidate with 1.1 YOE as Civil Engineer. Good technical match (React, Redux, Vue.js) but slightly lower behavioral engagement (28% response rate).
+
+[17] CAND_0000007 (Score: 0.5132)
+Reasoning: Solid candidate with 5.5 YOE as Civil Engineer. Good technical match (Content Writing, MongoDB, Sales) but slightly lower behavioral engagement (62% response rate).
+
+[18] CAND_0000022 (Score: 0.5098)
+Reasoning: Solid candidate with 1.1 YOE as Mechanical Engineer. Good technical match (OpenCV, Django, Terraform) but slightly lower behavioral engagement (27% response rate).
+
+[19] CAND_0000012 (Score: 0.4996)
+Reasoning: Solid candidate with 1.1 YOE as Operations Manager. Good technical match (Azure, Airflow, AWS) but slightly lower behavioral engagement (16% response rate).
+
+[20] CAND_0000048 (Score: 0.4877)
+Reasoning: Solid candidate with 9.7 YOE as Mobile Developer. Good technical match (Hadoop, Terraform, Vue.js) but slightly lower behavioral engagement (65% response rate).
+
+[21] CAND_0000035 (Score: 0.4799)
+Reasoning: Solid candidate with 4.3 YOE as Full Stack Developer. Good technical match (Snowflake, BigQuery, Recommendation Systems) but slightly lower behavioral engagement (34% response rate).
+
+[22] CAND_0000043 (Score: 0.4132)
+Reasoning: Solid candidate with 8.3 YOE as Cloud Engineer. Good technical match (Elasticsearch, OpenSearch, Airflow) but slightly lower behavioral engagement (4% response rate).
+
+[23] CAND_0000037 (Score: 0.3850)
+Reasoning: Solid candidate with 14.3 YOE as Business Analyst. Good technical match (Databricks, Docker, Flask) but slightly lower behavioral engagement (78% response rate).
+
+[24] CAND_0000049 (Score: 0.3790)
+Reasoning: Solid candidate with 11.8 YOE as Mechanical Engineer. Good technical match (TypeScript, Rust, Data Pipelines) but slightly lower behavioral engagement (59% response rate).
+
+[25] CAND_0000030 (Score: 0.3637)
+Reasoning: Solid candidate with 10.0 YOE as Marketing Manager. Good technical match (gRPC, Apache Beam, GraphQL) but slightly lower behavioral engagement (66% response rate).
+
+[26] CAND_0000027 (Score: 0.3427)
+Reasoning: Solid candidate with 3.9 YOE as DevOps Engineer. Good technical match (Docker, YOLO, PEFT) but slightly lower behavioral engagement (58% response rate).
+
+[27] CAND_0000039 (Score: 0.3360)
+Reasoning: Solid candidate with 3.9 YOE as Marketing Manager. Good technical match (Spark, Tailwind, Sales) but slightly lower behavioral engagement (52% response rate).
+
+[28] CAND_0000008 (Score: 0.3163)
+Reasoning: Solid candidate with 3.6 YOE as Operations Manager. Good technical match (Java, BigQuery, Spark) but slightly lower behavioral engagement (42% response rate).
+
+[29] CAND_0000003 (Score: 0.3153)
+Reasoning: Solid candidate with 1.1 YOE as Customer Support. Good technical match (Angular, SEO, Excel) but slightly lower behavioral engagement (46% response rate).
+
+[30] CAND_0000026 (Score: 0.3145)
+Reasoning: Solid candidate with 6.8 YOE as Graphic Designer. Good technical match (Apache Beam, Kubeflow, Scrum) but slightly lower behavioral engagement (59% response rate).
+
+[31] CAND_0000006 (Score: 0.2804)
+Reasoning: Solid candidate with 6.0 YOE as Business Analyst. Good technical match (Content Writing, SEO, Redux) but slightly lower behavioral engagement (12% response rate).
+
+[32] CAND_0000046 (Score: 0.2793)
+Reasoning: Solid candidate with 7.8 YOE as Mechanical Engineer. Good technical match (Agile, Scrum, SAP) but slightly lower behavioral engagement (41% response rate).
+
+[33] CAND_0000016 (Score: 0.2779)
+Reasoning: Solid candidate with 5.3 YOE as Accountant. Good technical match (Node.js, Figma, Data Pipelines) but slightly lower behavioral engagement (64% response rate).
+
+[34] CAND_0000028 (Score: 0.2723)
+Reasoning: Solid candidate with 1.1 YOE as Operations Manager. Good technical match (Snowflake, React, JavaScript) but slightly lower behavioral engagement (14% response rate).
+
+[35] CAND_0000021 (Score: 0.2714)
+Reasoning: Solid candidate with 14.5 YOE as Project Manager. Good technical match (Hadoop, PostgreSQL, Kafka) but slightly lower behavioral engagement (49% response rate).
+
+[36] CAND_0000020 (Score: 0.2681)
+Reasoning: Solid candidate with 6.3 YOE as Mechanical Engineer. Good technical match (GraphQL, TypeScript, Flask) but slightly lower behavioral engagement (55% response rate).
+
+[37] CAND_0000019 (Score: 0.2621)
+Reasoning: Solid candidate with 6.5 YOE as Project Manager. Good technical match (Figma, GraphQL, Six Sigma) but slightly lower behavioral engagement (34% response rate).
+
+[38] CAND_0000050 (Score: 0.2601)
+Reasoning: Solid candidate with 13.5 YOE as Business Analyst. Good technical match (gRPC, SEO, Feature Engineering) but slightly lower behavioral engagement (42% response rate).
+
+[39] CAND_0000005 (Score: 0.2567)
+Reasoning: Solid candidate with 11.0 YOE as Accountant. Good technical match (SQL, PowerPoint, Photoshop) but slightly lower behavioral engagement (37% response rate).
+
+[40] CAND_0000036 (Score: 0.2563)
+Reasoning: Solid candidate with 11.3 YOE as Project Manager. Good technical match (Figma, MongoDB, PowerPoint) but slightly lower behavioral engagement (40% response rate).
+
+[41] CAND_0000045 (Score: 0.2547)
+Reasoning: Solid candidate with 12.2 YOE as Project Manager. Good technical match (GCP, Sales, Redux) but slightly lower behavioral engagement (62% response rate).
+
+[42] CAND_0000041 (Score: 0.2334)
+Reasoning: Solid candidate with 13.7 YOE as Operations Manager. Good technical match (Airflow, SQL, Go) but slightly lower behavioral engagement (7% response rate).
+
+[43] CAND_0000042 (Score: 0.2315)
+Reasoning: Solid candidate with 5.0 YOE as HR Manager. Good technical match (Project Management, gRPC, Marketing) but slightly lower behavioral engagement (58% response rate).
+
+[44] CAND_0000017 (Score: 0.2219)
+Reasoning: Solid candidate with 12.3 YOE as Accountant. Good technical match (Next.js, Java, Apache Flink) but slightly lower behavioral engagement (27% response rate).
+
+[45] CAND_0000029 (Score: 0.2181)
+Reasoning: Solid candidate with 7.2 YOE as Business Analyst. Good technical match (Node.js, Scrum, Tailwind) but slightly lower behavioral engagement (12% response rate).
+
+[46] CAND_0000034 (Score: 0.2117)
+Reasoning: Solid candidate with 14.5 YOE as Business Analyst. Good technical match (GraphQL, Excel, Node.js) but slightly lower behavioral engagement (15% response rate).
+
+[47] CAND_0000033 (Score: 0.2092)
+Reasoning: Solid candidate with 8.6 YOE as Graphic Designer. Good technical match (Kubernetes, Data Pipelines, Snowflake) but slightly lower behavioral engagement (8% response rate).
+
+[48] CAND_0000004 (Score: 0.2004)
+Reasoning: Solid candidate with 3.8 YOE as Marketing Manager. Good technical match (Node.js, Content Writing, Redux) but slightly lower behavioral engagement (26% response rate).
+
+[49] CAND_0000024 (Score: 0.1924)
+Reasoning: Solid candidate with 7.5 YOE as HR Manager. Good technical match (Figma, Kubernetes, Forecasting) but slightly lower behavioral engagement (78% response rate).
+
+[50] CAND_0000047 (Score: 0.1541)
+Reasoning: Solid candidate with 2.4 YOE as Project Manager. Good technical match (FastAPI, Java, Excel) but slightly lower behavioral engagement (39% response rate).

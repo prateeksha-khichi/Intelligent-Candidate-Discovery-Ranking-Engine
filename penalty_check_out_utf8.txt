@@ -1,0 +1,27 @@
+﻿=== 'account' substring matches ===
+ - accountant
+
+=== PMs with >= 3 AI skills ===
+Total found: 0
+
+=== 10 Penalty Examples ===
+ID: CAND_0000083 | Title: graphic designer
+  Skills: ['bigquery', 'flask', 'figma', 'sap', 'vue.js', 'marketing', 'semantic search', 'pinecone', 'fine-tuning llms', 'rag']
+ID: CAND_0000120 | Title: graphic designer
+  Skills: ['fastapi', 'aws', 'redux', 'marketing', 'sql', 'react', 'salesforce crm', 'forecasting', 'content writing', 'rag']
+ID: CAND_0000133 | Title: graphic designer
+  Skills: ['airflow', 'snowflake', 'node.js', 'hadoop', 'accounting', 'rust', 'hugging face transformers', 'llms', 'sentence transformers', 'fine-tuning llms']
+ID: CAND_0000201 | Title: marketing manager
+  Skills: ['sales', 'data pipelines', 'vue.js', 'graphql', 'marketing', 'apache flink', 'information retrieval', 'embeddings', 'fine-tuning llms', 'hugging face transformers']
+ID: CAND_0000211 | Title: operations manager
+  Skills: ['content writing', 'dbt', 'angular', 'object detection', 'react', 'seo', 'sentence transformers', 'recommendation systems', 'hugging face transformers', 'llms']
+ID: CAND_0000212 | Title: customer support
+  Skills: ['airflow', 'scrum', 'content writing', 'html', 'vue.js', 'redux', 'next.js', 'kubernetes', 'marketing', 'go']
+ID: CAND_0000344 | Title: business analyst
+  Skills: ['azure', 'figma', 'django', 'etl', 'docker', 'content writing', 'next.js', 'fine-tuning llms', 'rag', 'hugging face transformers']
+ID: CAND_0000389 | Title: operations manager
+  Skills: ['agile', 'sap', 'typescript', 'accounting', 'aws', 'content writing', 'microservices', 'javascript', 'gcp', 'sql']
+ID: CAND_0000399 | Title: business analyst
+  Skills: ['agile', 'snowflake', 'diffusion models', 'tailwind', 'project management', 'airflow', 'gcp', 'powerpoint', 'rag', 'faiss']
+ID: CAND_0000421 | Title: graphic designer
+  Skills: ['agile', 'fastapi', 'kafka', 'css', 'microservices', 'salesforce crm', 'llms', 'semantic search', 'prompt engineering', 'embeddings']

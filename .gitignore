@@ -1,0 +1,12 @@
+data/raw/candidates.jsonl
+data/raw/candidates.jsonl.gz
+data/processed/*.npy
+data/processed/*.bin
+data/processed/*.parquet
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+outputs/submission.csv
+chroma_db/

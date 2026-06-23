@@ -1,0 +1,92 @@
+UNSEEN CANDIDATES - TOP 15 RANKING
+===========================
+
+[1] CAND_0036514 (Score: 0.5380)
+Title: Backend Engineer
+Role Category: general_software_engineering
+Reasoning: Strong fit: 2.5 years of experience, currently Backend Engineer at Vedantu. High semantic alignment with skills in Python, Information Retrieval and a strong 80% recruiter response rate.
+
+
+[2] CAND_0071477 (Score: 0.5135)
+Title: .NET Developer
+Role Category: general_software_engineering
+Reasoning: Strong fit: 5.3 years of experience, currently .NET Developer at Pied Piper. High semantic alignment with skills in Rag and a strong 55% recruiter response rate.
+
+
+[3] CAND_0036472 (Score: 0.4764)
+Title: Senior Software Engineer
+Role Category: general_software_engineering
+Reasoning: Strong fit: 5.8 years of experience, currently Senior Software Engineer at Zoho. High semantic alignment with skills in Information Retrieval and a strong 35% recruiter response rate.
+
+
+[4] CAND_0055038 (Score: 0.4194)
+Title: Mobile Developer
+Role Category: general_software_engineering
+Reasoning: Strong fit: 6.5 years of experience, currently Mobile Developer at Acme Corp. High semantic alignment with skills in Aws, Kubernetes and a strong 64% recruiter response rate.
+
+
+[5] CAND_0073614 (Score: 0.4192)
+Title: Software Engineer
+Role Category: general_software_engineering
+Reasoning: Strong fit: 6.4 years of experience, currently Software Engineer at Cognizant. High semantic alignment with skills in Docker, Rag, Kubernetes and a strong 66% recruiter response rate.
+
+
+[6] CAND_0003529 (Score: 0.4117)
+Title: Senior Data Engineer
+Role Category: general_software_engineering
+Reasoning: Strong fit: 5.8 years of experience, currently Senior Data Engineer at Capgemini. High semantic alignment with skills in Langchain, Pytorch, Tensorflow and a strong 45% recruiter response rate.
+
+
+[7] CAND_0020430 (Score: 0.3823)
+Title: QA Engineer
+Role Category: engineering_adjacent_no_ai
+Reasoning: Strong fit: 8.4 years of experience, currently QA Engineer at Globex Inc. High semantic alignment with skills in Rag and a strong 61% recruiter response rate.
+
+
+[8] CAND_0049848 (Score: 0.3527)
+Title: DevOps Engineer
+Role Category: engineering_adjacent_no_ai
+Reasoning: Strong fit: 4.3 years of experience, currently DevOps Engineer at Dunder Mifflin. High semantic alignment with skills in Weaviate, Gcp and a strong 55% recruiter response rate.
+
+
+[9] CAND_0055443 (Score: 0.3114)
+Title: QA Engineer
+Role Category: engineering_adjacent_no_ai
+Reasoning: Strong fit: 1.0 years of experience, currently QA Engineer at Hooli. High semantic alignment with skills in Pytorch, Information Retrieval, Aws and a strong 22% recruiter response rate.
+
+
+[10] CAND_0032149 (Score: 0.2991)
+Title: Operations Manager
+Role Category: engineering_adjacent_no_ai
+Reasoning: Strong fit: 6.0 years of experience, currently Operations Manager at Dunder Mifflin. High semantic alignment with skills in Kubernetes and a strong 36% recruiter response rate.
+
+
+[11] CAND_0003956 (Score: 0.2944)
+Title: Data Analyst
+Role Category: non_engineering
+Reasoning: Solid candidate with 6.6 YOE as Data Analyst. Though specific skill overlap with JD requirements was limited in explicit arrays, but maintained solid semantic alignment overall.
+
+
+[12] CAND_0011446 (Score: 0.2888)
+Title: Civil Engineer
+Role Category: non_engineering
+Reasoning: Solid candidate with 1.5 YOE as Civil Engineer. Good technical match (Kubernetes) but slightly lower behavioral engagement (76% response rate).
+
+
+[13] CAND_0077448 (Score: 0.2866)
+Title: Operations Manager
+Role Category: non_engineering
+Reasoning: Solid candidate with 8.7 YOE as Operations Manager. Good technical match (Llm) but slightly lower behavioral engagement (69% response rate).
+
+
+[14] CAND_0044169 (Score: 0.2776)
+Title: DevOps Engineer
+Role Category: engineering_adjacent_no_ai
+Reasoning: Solid candidate with 8.0 YOE as DevOps Engineer. Good technical match (Rag) but slightly lower behavioral engagement (39% response rate).
+
+
+[15] CAND_0013485 (Score: 0.2774)
+Title: Accountant
+Role Category: non_engineering
+Reasoning: Solid candidate with 5.2 YOE as Accountant. Good technical match (Gcp) but slightly lower behavioral engagement (76% response rate).
+

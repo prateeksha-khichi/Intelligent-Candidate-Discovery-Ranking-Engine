@@ -1,0 +1,105 @@
+UPDATED TOP 10 SAMPLE RANKING
+===========================
+
+[1] CAND_0000038 (Score: 0.6669)
+Title: Java Developer
+Role Category: ai_ml_engineering
+Reasoning: Strong fit: 6.7 years of experience, currently Java Developer at Swiggy. High semantic alignment with skills in Weaviate, Docker and a strong 20% recruiter response rate.
+
+
+[2] CAND_0000032 (Score: 0.6104)
+Title: .NET Developer
+Role Category: ai_ml_engineering
+Reasoning: Strong fit: 8.1 years of experience, currently .NET Developer at Cognizant. High semantic alignment with skills in Python and a strong 69% recruiter response rate.
+
+
+[3] CAND_0000031 (Score: 0.5626)
+Title: Recommendation Systems Engineer
+Role Category: general_software_engineering
+Reasoning: Strong fit: 6.0 years of experience, currently Recommendation Systems Engineer at Swiggy. High semantic alignment with skills in Pinecone, Information Retrieval, Sentence Transformers and a strong 91% recruiter response rate.
+
+
+[4] CAND_0000023 (Score: 0.5146)
+Title: Software Engineer
+Role Category: general_software_engineering
+Reasoning: Strong fit based on relevant engineering background (3.7 YOE as Software Engineer) and high platform engagement (57% response rate), though specific skill overlap with jd requirements was limited in explicit arrays.
+
+
+[5] CAND_0000010 (Score: 0.4805)
+Title: Data Engineer
+Role Category: general_software_engineering
+Reasoning: Strong fit: 4.6 years of experience, currently Data Engineer at Ola. High semantic alignment with skills in Python, Gcp and a strong 40% recruiter response rate.
+
+
+[6] CAND_0000001 (Score: 0.4743)
+Title: Backend Engineer
+Role Category: general_software_engineering
+Reasoning: Strong fit: 6.9 years of experience, currently Backend Engineer at Mindtree. High semantic alignment with skills in Nlp, Aws, Gcp and a strong 34% recruiter response rate.
+
+
+[7] CAND_0000015 (Score: 0.4657)
+Title: Software Engineer
+Role Category: general_software_engineering
+Reasoning: Strong fit: 5.4 years of experience, currently Software Engineer at Razorpay. High semantic alignment with skills in Computer Vision, Pytorch and a strong 32% recruiter response rate.
+
+
+[8] CAND_0000044 (Score: 0.4309)
+Title: Frontend Engineer
+Role Category: general_software_engineering
+Reasoning: Strong fit: 5.7 years of experience, currently Frontend Engineer at Tech Mahindra. High semantic alignment with skills in Python and a strong 66% recruiter response rate.
+
+
+[9] CAND_0000014 (Score: 0.3860)
+Title: Frontend Engineer
+Role Category: engineering_adjacent_no_ai
+Reasoning: Strong fit based on relevant engineering background (8.4 YOE as Frontend Engineer) and high platform engagement (80% response rate), though specific skill overlap with jd requirements was limited in explicit arrays.
+
+
+[10] CAND_0000048 (Score: 0.3844)
+Title: Mobile Developer
+Role Category: general_software_engineering
+Reasoning: Strong fit: 9.7 years of experience, currently Mobile Developer at CRED. High semantic alignment with skills in Aws and a strong 65% recruiter response rate.
+
+
+
+VERIFYING SPECIFIC CANDIDATES (SHOULD DROP IN RANK):
+===========================
+[4] CAND_0000023 (Score: 0.5146) - general_software_engineering
+[9] CAND_0000014 (Score: 0.3860) - engineering_adjacent_no_ai
+[12] CAND_0000011 (Score: 0.3070) - engineering_adjacent_no_ai
+[14] CAND_0000025 (Score: 0.3004) - engineering_adjacent_no_ai
+[20] CAND_0000040 (Score: 0.2529) - non_engineering
+
+
+REASONING SPOT CHECK (10 RANDOM CANDIDATES):
+===========================
+[CAND_0000017] Accountant
+Reasoning: Solid candidate with 12.3 YOE as Accountant. Though specific skill overlap with JD requirements was limited in explicit arrays, but maintained solid semantic alignment overall.
+
+[CAND_0000044] Frontend Engineer
+Reasoning: Solid candidate with 5.7 YOE as Frontend Engineer. Good technical match (Python) but slightly lower behavioral engagement (66% response rate).
+
+[CAND_0000032] .NET Developer
+Reasoning: Solid candidate with 8.1 YOE as .NET Developer. Good technical match (Python) but slightly lower behavioral engagement (69% response rate).
+
+[CAND_0000022] Mechanical Engineer
+Reasoning: Solid candidate with 1.1 YOE as Mechanical Engineer. Good technical match (Aws) but slightly lower behavioral engagement (27% response rate).
+
+[CAND_0000049] Mechanical Engineer
+Reasoning: Solid candidate with 11.8 YOE as Mechanical Engineer. Good technical match (Kubernetes) but slightly lower behavioral engagement (59% response rate).
+
+[CAND_0000037] Business Analyst
+Reasoning: Solid candidate with 14.3 YOE as Business Analyst. Good technical match (Docker, Aws) but slightly lower behavioral engagement (78% response rate).
+
+[CAND_0000014] Frontend Engineer
+Reasoning: Solid candidate with 8.4 YOE as Frontend Engineer. Though specific skill overlap with JD requirements was limited in explicit arrays, but maintained solid semantic alignment overall.
+
+[CAND_0000015] Software Engineer
+Reasoning: Solid candidate with 5.4 YOE as Software Engineer. Good technical match (Computer Vision, Pytorch) but slightly lower behavioral engagement (32% response rate).
+
+[CAND_0000012] Operations Manager
+Reasoning: Solid candidate with 1.1 YOE as Operations Manager. Good technical match (Aws) but slightly lower behavioral engagement (16% response rate).
+
+[CAND_0000001] Backend Engineer
+Reasoning: Solid candidate with 6.9 YOE as Backend Engineer. Good technical match (Nlp, Aws, Gcp) but slightly lower behavioral engagement (34% response rate).
+

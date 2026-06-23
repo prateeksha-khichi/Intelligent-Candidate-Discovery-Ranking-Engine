@@ -1,0 +1,51 @@
+{
+  "role": "Senior AI Engineer",
+  "level": "Senior",
+  "must_have_skills": [
+    "sentence-transformers",
+    "openai embeddings",
+    "bge",
+    "e5",
+    "pinecone",
+    "weaviate",
+    "qdrant",
+    "milvus",
+    "opensearch",
+    "elasticsearch",
+    "faiss",
+    "python",
+    "ndcg",
+    "mrr",
+    "map"
+  ],
+  "nice_to_have_skills": [
+    "lora",
+    "qlora",
+    "peft",
+    "xgboost",
+    "learning-to-rank"
+  ],
+  "anti_patterns": [
+    "pure research",
+    "academic labs",
+    "only langchain",
+    "recent llm wrappers",
+    "computer vision",
+    "speech",
+    "robotics without nlp"
+  ],
+  "services_companies": [
+    "tcs",
+    "infosys",
+    "wipro",
+    "accenture",
+    "cognizant",
+    "capgemini"
+  ],
+  "culture_signals": [
+    "shipper",
+    "product engineering",
+    "founding team",
+    "production experience"
+  ]
+}
