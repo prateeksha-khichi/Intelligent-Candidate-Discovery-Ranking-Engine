@@ -35,7 +35,10 @@ def classify_role_category(candidate: dict) -> str:
         "sales", "marketing", "hr", "recruiter", "talent", "support", 
         "account", "customer success", "accounting", "finance", 
         "business analyst", "designer", "product manager", 
-        "project manager", "scrum master", "graphic designer"
+        "project manager", "scrum master", "graphic designer",
+        "mechanical engineer", "civil engineer", "electrical engineer", 
+        "chemical engineer", "aerospace engineer", "structural engineer", 
+        "industrial engineer"
     ]
     
     import re

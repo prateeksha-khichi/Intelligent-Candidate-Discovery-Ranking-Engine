@@ -55,7 +55,7 @@ def run_ranking_pipeline(sample_only: bool = False):
         top_retrieved = retriever.get_top_k(k=100000)
         retrieved_dict = {cid: score for cid, score in top_retrieved if cid in sample_ids}
     else:
-        top_retrieved = retriever.get_top_k(k=1000)
+        top_retrieved = retriever.get_top_k(k=2000)
         retrieved_dict = {cid: score for cid, score in top_retrieved}
     
     # 3. Load Candidate Data

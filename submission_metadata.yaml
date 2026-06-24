@@ -1,0 +1,65 @@
+# Redrob Hackathon — Submission Metadata Template
+
+# ============================================================================
+# Team identity
+# ============================================================================
+team_name: "Prateeksha Khichi"  
+
+primary_contact:
+  name: "Prateeksha Khichi"
+  email: "prateekshakhichi@gmail.com"   
+  phone: "+91-9782414862"        
+
+team_members:
+  - name: "Prateeksha Khichi"
+    email: "prateekshakhichi@gmail.com"
+    role: "AI/ML Engineer & Full Stack Developer"          
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+github_repo: "https://github.com/prateeksha-khichi/Intelligent-Candidate-Discovery-Ranking-Engine"
+
+sandbox_link: "https://colab.research.google.com/github/prateeksha-khichi/Intelligent-Candidate-Discovery-Ranking-Engine/blob/main/sandbox.ipynb"
+
+reproduce_command: "python finish_pipeline.py"
+
+# ============================================================================
+# Compute environment
+# ============================================================================
+compute:
+  platform: "Local Windows Machine"                    
+  cpu_cores: 8                                  
+  ram_gb: 16                                    
+  python_version: "3.11.4"                      
+  os: "Windows"                              
+  uses_gpu_for_inference: false                 
+  has_network_during_ranking: false             
+  pre_computation_required: true               
+  pre_computation_time_minutes: 5               
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+ai_tools_used:
+  - "Gemini"        
+  - "Claude"
+
+ai_usage_summary: |
+  Used Gemini for coding assistance and debugging. Used Claude for validating the CSV outputs and rankings. No candidate data was fed to any LLM directly during the online ranking phase.
+
+# ============================================================================
+# Approach summary (optional but recommended)
+# ============================================================================
+methodology_summary: |
+  Hybrid semantic search and rule-based ranker. We retrieve the top 2000 candidates using a FAISS index on sentence-transformer embeddings, then pass them through a deterministic scoring engine. The engine applies an explicit job title blocklist to squash keyword stuffers (e.g., Mechanical Engineers listing "ML"), and then applies behavioral modifiers based on platform engagement and career trajectory (e.g., heavily weighting past senior production experience even if current title is junior).
+
+# ============================================================================
+# Declarations
+# ============================================================================
+declarations:
+  read_submission_spec: true        
+  code_is_original_work: true       
+  no_collusion: true                
+  honeypot_check_done: true        
+  reproduction_tested: true         
