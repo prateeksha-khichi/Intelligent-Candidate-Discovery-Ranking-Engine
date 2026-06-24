@@ -20,7 +20,7 @@ team_members:
 # ============================================================================
 github_repo: "https://github.com/prateeksha-khichi/Intelligent-Candidate-Discovery-Ranking-Engine"
 
-sandbox_link: "https://colab.research.google.com/github/prateeksha-khichi/Intelligent-Candidate-Discovery-Ranking-Engine/blob/main/sandbox.ipynb"
+sandbox_link: "https://redrob-ranker-prateeksha.streamlit.app/"
 
 reproduce_command: "python finish_pipeline.py"
 
