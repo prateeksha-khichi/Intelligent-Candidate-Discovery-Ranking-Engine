@@ -10,3 +10,4 @@ __pycache__/
 *.pyc
 # outputs/submission.csv
 chroma_db/
+submission_metadata.yaml
