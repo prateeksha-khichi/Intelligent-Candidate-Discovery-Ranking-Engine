@@ -8,5 +8,5 @@ env/
 .env
 __pycache__/
 *.pyc
-outputs/submission.csv
+# outputs/submission.csv
 chroma_db/

@@ -2,7 +2,7 @@ import json
 import csv
 from collections import Counter
 
-def load_top_candidates(csv_path="outputs/submission.csv", jsonl_path="data/raw/candidates.jsonl"):
+def load_top_candidates(csv_path="outputs/submission.csv", jsonl_path="data/processed/top_candidates.jsonl"):
     """Loads the full candidate profiles for the top candidates listed in submission.csv."""
     top_ids = set()
     try:

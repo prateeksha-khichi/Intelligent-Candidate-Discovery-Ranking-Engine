@@ -1,3 +1,11 @@
+---
+title: Candidate Ranking Dashboard
+emoji: 📈
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+---
 # Intelligent Candidate Discovery & Ranking Engine
 
 This repository contains our solution for the AI Candidate Discovery & Ranking System challenge for the Redrob Hackathon. The system evaluates 100,000 candidates against a specific job description ("Senior AI Engineer — Founding Team") using a hybrid architecture of semantic similarity (FAISS), honeypot detection, behavioral signal scoring, and deterministic rule-based heuristics.
@@ -29,11 +37,11 @@ To regenerate `data/processed/` files from `data/raw/`:
    python src/offline/build_faiss_index.py
    python src/offline/honeypot_detector.py
    ```
-4. Run the ranking pipeline end-to-end:
+4. **Run the final ranking pipeline (Online Phase):**
    ```bash
    python finish_pipeline.py
    ```
-   This script executes `src.ranking.rank_candidates`, outputs execution metrics, and generates the final output at `outputs/submission.csv`.
+   *Note on Reproducibility:* The hackathon judges evaluate the execution time of the **Online Ranking Algorithm**. The 4 scripts in Step 3 represent the "Offline Phase" (heavy LLM parsing, building vector indices) which we have already pre-computed and saved in `data/processed/`. `finish_pipeline.py` is the single command needed to load this pre-computed data, execute the lightning-fast ranking algorithm, output the metrics (RAM & Execution Time), and generate the final `outputs/submission.csv`!
 
 5. Validate the submission:
    ```bash
