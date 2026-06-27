@@ -110,7 +110,4 @@ Their immediate previous role was as a "Senior Software Engineer (ML)" with expl
 - **Data Processing:** Pandas, NumPy
 - **Environment:** Local Windows / Linux (CPU Optimized)
 
----
-<div align="center">
-  <p><i>Built with ❤️ by Team Prateeksha for the Redrob Hackathon.</i></p>
-</div>
+
